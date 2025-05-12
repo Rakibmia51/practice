@@ -3,5 +3,9 @@ new branch name is - practice
 hi Ergon 
 
 
+<<<<<<< HEAD
+4th commit - Hi how are you (branch is master)
+=======
 5th commit - (branch is practice)
+>>>>>>> practice
 
